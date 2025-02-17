@@ -2,7 +2,7 @@
 
 🎯 **Data Scientist | Machine Learning Enthusiast | Data-Driven Decision Maker**  
 
-Sono un esperto in Data Science e Machine Learning con oltre 18 anni di esperienza nell'ottimizzazione dei processi e nell'analisi dati in settori come logistica, real estate e manifattura. La mia passione è trasformare i dati in insight strategici e modelli predittivi.
+Sono un DataScientist  con oltre 18 anni di esperienza nell'ottimizzazione dei processi e nell'analisi dati in settori come logistica, real estate e manifattura. La mia passione è trasformare i dati in insight strategici e modelli predittivi.
 
 🔬 **Competenze principali**:
 - Machine Learning, Deep Learning (CNN, NLP, Computer Vision)
@@ -14,7 +14,8 @@ Sono un esperto in Data Science e Machine Learning con oltre 18 anni di esperien
 📚 **Formazione**:
 - 🎓 Master in Data Science e Big Data Analytics - **Università di Palermo (UNIPA)**
 - 🎓 Master in Ingegneria Gestionale - **LM-31**
-- 📜 **MIT Applied Data Science Program** 
+- 📜 **MIT Applied Data Science Program**
+- 
 🚀 **Progetti in evidenza**:
 - 📊 [Analisi delle serie storiche delle commodities](https://github.com/golden82/Portfolio)
 - 🏡 [Web Scraping dei prezzi immobiliari su Idealista](https://github.com/golden82/Portfolio)
